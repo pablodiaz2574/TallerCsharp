@@ -39,6 +39,7 @@ namespace TallerCsharp
             Ejercicio1 ej1 = new Ejercicio1();
             ej1.areatriangulo();
             //Detener pantalla para ver resultados
+
             Console.ReadKey();
                     
         }
